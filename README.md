@@ -18,5 +18,5 @@ WebGL (RefRes: 1280x720 HD-720p)
 ### Screenshots:
 
 <div>
-<img src = "./Screenshots/home-pic-playmode-mythirdscript-addnumbers-cs-smeerws.jpg" width = "500">
+<img src = "./Screenshots/inclass-pic-HelloWorld-pm-install-playmaker.PNG" width = "500">
 </div> 
